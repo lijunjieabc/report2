@@ -9,5 +9,8 @@ class Report2ApplicationTests {
     @Test
     void contextLoads() {
     }
+    @Test
+    void Hello(){
+    }
 
 }
